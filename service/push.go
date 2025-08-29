@@ -15,11 +15,11 @@ import (
 
 var (
 	timeShouldCheck = []model.HourMinute{
-		{7, 45},
-		{9, 45},
-		{13, 15},
-		{15, 15},
-		{17, 45},
+		{7, 30},
+		{9, 35},
+		{13, 00},
+		{15, 05},
+		{17, 30},
 		{19, 20},
 	}
 	checkInterval = 5

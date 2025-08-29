@@ -9,24 +9,25 @@
         "https://jwgls0.cust.edu.cn",
         "https://jwgls1.cust.edu.cn",
         "https://jwgls2.cust.edu.cn",
-        "https://jwgls3.cust.edu.cn"
+        "https://jwgls3.cust.edu.cn",
+        "https://jwgls4.cust.edu.cn"
     ],
     "update": {
         "version": {
-            "android": 749,
+            "android": 756,
             "ios": 749
         },
         "priority": {
-            "android": 2,
-            "ios": 2
+            "android": 1,
+            "ios": 1
         },
         "url": {
-            "android": "https://cdn3.cust.app/uploads/CustedNG_749_Arm64.apk",
-            "ios": "https://apps.apple.com/app/id1483085363"
+            "android": "https://cdn.sharinghub.cn/softwares/arm64-v8a/CustedNG_756_arm64-v8a.apk",
+            "ios": "https://custed.sharinghub.cn/ios_no_update.html"
         },
         "changelog": {
-            "android": "删除彩蛋",
-            "ios": "删除彩蛋"
+            "android": "重新开始非官方维护",
+            "ios": ""
         }
     },
     "not_show_real_ui": [
@@ -50,26 +51,16 @@
         }
     ],
     "banner": {
-        "img_url": "https://cdn3.cust.app/uploads/banner/2022hire.png",
-        "action_url": "https://cust.cc/hire"
+        "img_url": "https://cdn.sharinghub.cn/CustedNG/banner/CustedNG.png",
+        "action_url": "https://cust.app"
     },
     "have_exam": true,
     "school_calendar": [
         {
-            "term": "20221",
-            "pic_url": "https://cdn3.cust.app/uploads/calendar/20221.png",
-            "str_summary": ""
-        },
-        {
-            "term": "20222",
-            "pic_url": "https://cdn3.cust.app/uploads/calendar/20222.png",
-            "str_summary": ""
-        },
-        {
-            "term": "20231",
-            "pic_url": "https://cdn3.cust.app/uploads/calendar/20231.jpg",
+            "term": "20252",
+            "pic_url": "https://cdn.sharinghub.cn/CustedNG/calendar/20251.jpg",
             "str_summary": ""
         }
     ],
-    "semester_start": [2023, 2, 27]
+    "semester_start": [2025, 8, 25]
 }

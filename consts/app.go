@@ -40,7 +40,7 @@ const APNSPushTopic = "com.tusi.app"
 const XiaomipushUrl = "https://api.xmpush.xiaomi.com/v3/message/regid"
 
 const (
-	WeatherAPIUrl = "https://cust.app/app/weather"
+	WeatherAPIUrl = "https://api.sharinghub.cn/weather"
 )
 
 // 最多向后搜索两次，跳过周末

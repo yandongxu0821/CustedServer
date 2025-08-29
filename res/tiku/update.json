@@ -1,9 +1,9 @@
 {
-    "newest": 118,
-    "android": "https://cdn3.cust.app/uploads/ToastTiku_120_Arm64.apk",
-    "ios": "https://apps.apple.com/app/id1580345312",
+    "newest": 109,
+    "android": "https://lib.sharinghub.cn/softwares/arm64-v8a/Toast%E9%A2%98%E5%BA%93_1.0.0.apk",
+    "ios": "https://apps.apple.com/cn/app/toast-%E9%A2%98%E5%BA%93/id1580345312",
     "iosbuild": 109,
-    "androidbuild": 120,
-    "min": 114,
-    "changelog": "！注意：从118以下版本更新会清空所有数据"
+    "androidbuild": 1,
+    "min": 1,
+    "changelog": "!!!!请注意，此次更新会清除之前的所有答题记录\n新增背题模式、修复白屏、优化做题记录保存逻辑、支持删除单个单元的做题记录"
 }
